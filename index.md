@@ -32,9 +32,9 @@ title: 期末作業 - 演算法學習成果
 <table style="border: none;">
   <tr style="border: none;">
    <td style="border: none; text-align: center;">
-      <img src="images/0604-1.png" width="２５０" style="margin: 5px;"/>
-      <img src="images/0604-2.png" width="２５０" style="margin: 5px;"/>
-      <img src="images/0604-3.png" width="２５０" style="margin: 5px;"/>
+      <img src="images/0604-1.png" width="２００" style="margin: 5px;"/>
+      <img src="images/0604-2.png" width="２００" style="margin: 5px;"/>
+      <img src="images/0604-3.png" width="２００" style="margin: 5px;"/>
       <br>
     <small>圖 1~圖3 : AI 對於 CNN 濾波器原理的解析</small>
     </td>
